@@ -1,1 +1,24 @@
-/* Add CSS Styling */
+.base
+{
+    background-color: pink;
+    color: black;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cooler
+{
+    font-size: 24px;
+}
+
+#element_2
+{
+    color: blue;
+    font-size: 36px;
+}
+
+#element_4
+{
+    background-color: lawngreen;
+    font-size: 24px;
+    font-weight: bold;
+}
